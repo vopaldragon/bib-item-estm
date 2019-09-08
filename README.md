@@ -1,4 +1,4 @@
-#　fastTextを使った書誌事項の推定
+# fastTextを使った書誌事項の推定
 
 - NDLの国立国会図書館デジタルコレクション書誌情報オープンデータセット（https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html）からファイルをダウンロードしてdataディレクトリに格納
 - MavenでBuildしてCreateDataを実行
